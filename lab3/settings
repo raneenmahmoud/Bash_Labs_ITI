@@ -1,0 +1,4 @@
+YSQLHOST="172.17.0.2"
+MYSQLUSER="root"
+MYSQLPASS=" "
+MYSQLDB="lab3-bash"
